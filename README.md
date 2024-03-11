@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently studying at **Information Technology, Brawijaya University**             
-🌱 I’m currently learning **Java, Android, and Game Engines**
-- 🎮 I enjoy play games in my me time 
-- ⚡ Fun fact **acu suka kpop**
+🌱 I’m currently learning **Java, Android, and Game Engines**      
+🎮 I enjoy play games in my me time       
+⚡ Fun fact **acu suka kpop**    
 
 <h3 align="left">Socials</h3>
 <p align="left">
